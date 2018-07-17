@@ -1,0 +1,39 @@
+
+
+- adding expense matching to plannedExpenseSum
+- adding expense + see if is overdrawn (end dateTo end) -> mark expense!
+
+- Budget,
+- PlannedExpense,
+- PlannedIncome,
+- Budget projection (balanceAmount / month),
+- register expense.
+
+
+
+
+(
+- get rid of categories for targets
+- add expense target (instead of category - two expenses can have the same category)
+)
+
+
+
+
+
+
+- adding expenses
+ - every month expense
+ - one-time expense
+ - monthly expense with end date
+ - expenses connected with some target
+
+- adding incomes
+ - every month earning
+ - one-time earning
+ - monthly earning with end date
+
+- calculating savings in particular month
+- calculating amount for date
+
+
